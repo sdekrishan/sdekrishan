@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)
+[![MasterHead](https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg)
 
 <h1 align="center">Hi 👋, I'm Krishan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
