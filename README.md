@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kk4064685@gmail.com**
 
-- 💻 My Portfolio https://sdekrishan.github.io
+- 💻 My Portfolio https://sdekrishan.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
